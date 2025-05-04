@@ -43,28 +43,7 @@ git clone https://github.com/JohnIvanGalang/Social-Media.git
 cd socialhub
 ```
 
-2. Project Structure
-```
-socialhub/
-│
-├── index.html
-├── css/
-│   ├── styles.css
-│   └── bootstrap.min.css
-├── js/
-│   ├── main.js
-│   └── auth.js
-├── pages/
-│   ├── login.html
-│   ├── register.html
-│   ├── profile.html
-│   └── feed.html
-└── assets/
-    ├── images/
-    └── icons/
-```
-
-3. Open `index.html` in your web browser
+2. Open `index.html` in your web browser
 
 ## 📱 Responsive Design
 
